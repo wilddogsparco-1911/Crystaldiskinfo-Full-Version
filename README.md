@@ -1,0 +1,1 @@
+# Crystaldiskinfo-Full-Version
