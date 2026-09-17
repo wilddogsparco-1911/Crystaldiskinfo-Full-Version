@@ -238,4 +238,4 @@ This repository serves as the official landing page for CrystalDiskInfo. The sof
 **Get the most recent version of CrystalDiskInfo today!**
 
 ---
-**Last updated:** 2026-09-17 16:18:17 UTC
+**Last updated:** 2026-09-17 20:00:31 UTC
